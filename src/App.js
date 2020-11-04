@@ -15,6 +15,7 @@ class App extends React.Component {
   render(){
     return (
       <div className="App">
+        <h1>Addon</h1>
         <h1>This is a second sample app to test github pages!!!!!!!!!!!!!</h1>
         <h2>Some loaded stuff: {this.state.title}</h2>
       </div>
